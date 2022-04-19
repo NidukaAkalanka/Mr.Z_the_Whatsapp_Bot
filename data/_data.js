@@ -1,5 +1,5 @@
 /**
- * Premium code / feature
- * Kamu bisa melakukan donasi terlebih dahulu untuk mendapatkan seluruh kode
- * lakukan donasi melalui link ini https://bit.ly/34IDvrD
+ * A Fully Functioning Whatsapp Chatbot
+ * 100% Hand-Coded by Niduka Akalanka
+ * Languages Used : Javascript, Node.js
  */
