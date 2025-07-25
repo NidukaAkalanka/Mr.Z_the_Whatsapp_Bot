@@ -42,7 +42,7 @@ const startBot = async () => {
     await Client.onIncomingCall(async (call) => {
       const { peerJid } = call;
       await Client.contactBlock(peerJid);
-      await Client.sendText(peerJid, '_⚠️ Bot is busy, do not call! DM *@niduka_akalanka_* on Instagram to Unblock!_');
+      await Client.sendText(peerJid, '_⚠️ Bot is busy, do not call!_');
     });
   } catch (error) {
     console.log('Error When start bot ' + error);
